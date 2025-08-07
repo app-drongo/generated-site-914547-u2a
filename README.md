@@ -1,2 +1,30 @@
-# generated-site-914547-u2a
-AI-generated website: Create a landing page for a IT freelance with Hero section and Services section...
+# project-1754597762023-mflcm1
+
+This Next.js website was generated using AI enhancement with multi-page support.
+
+## Pages
+
+- **Home** (/): 4 components
+
+## Statistics
+
+- **Total Pages**: 1
+- **Total Components**: 4
+- **Generated**: 2025-08-07T20:18:14.499Z
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000)
+
+---
+Generated with AI Website Builder
